@@ -1,5 +1,5 @@
 # poolboy_project
-I wrote this projects to learn how to use utilize the Poolboy library for efficient connection pooling. The primary focus is on managing a pool of HTTP requests, optimizing the retrieval of HTML content, and subsequently parsing it using the Floki HTML parser.
+I wrote this project to learn how to use utilize the Poolboy library for efficient connection pooling. The primary focus is on managing a pool of HTTP requests, optimizing the retrieval of HTML content, and subsequently parsing it using the Floki HTML parser.
 
 ## Key words
 
