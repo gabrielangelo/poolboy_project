@@ -1,5 +1,5 @@
 # poolboy_project
-This project leverages Erlang's robust concurrency model and utilizes the Poolboy library for efficient connection pooling. The primary focus is on managing a pool of HTTP requests, optimizing the retrieval of HTML content, and subsequently parsing it using the Floki HTML parser.
+I wrote this projects to learn how to use utilize the Poolboy library for efficient connection pooling. The primary focus is on managing a pool of HTTP requests, optimizing the retrieval of HTML content, and subsequently parsing it using the Floki HTML parser.
 
 ## Key words
 
