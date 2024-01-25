@@ -29,7 +29,7 @@ mix deps.get
 
 ```bash
 $ iex -S mix
-$ Scraper.fetch_and_parse([
+iex(1)> Scraper.fetch_and_parse([
     ["github.com"]
 ])
 ```
